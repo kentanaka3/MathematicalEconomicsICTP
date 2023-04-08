@@ -1,0 +1,2 @@
+# MathematicalEconomicsICTP
+Mathematical Economics Course
